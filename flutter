@@ -1,0 +1,20 @@
+# flutter-utility-app
+
+A simple educational utility app built for learning Flutter & Dart.
+
+### What I did:
+- Set up Flutter environment on Windows 10/11
+- Created basic UI with 2 buttons to test environment config and UI rendering
+- Learned debugging with try-catch and state management using setState
+
+### Tech Stack:
+- Flutter, Dart, Material Design
+
+### How to Run:
+1. flutter pub get
+2. flutter run
+
+### Status:
+Learning project - Basic version
+
+Author: [Fathima]
